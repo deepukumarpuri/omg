@@ -8,7 +8,7 @@
         "Vidio Vc Steramer"
     ],
     "website": "https://t.me/DeeCodeBots",
-    "repository": "https://github.com/TeamDeeCode/Radio",
+    "repository": "https://github.com/deepukumarpuri/omg",
     "success_url": "https://t.me/DeeCodeBots",
     "env": {
         "API_ID": {
